@@ -4,7 +4,7 @@ public class PracticeProblem {
 
 
 	}
-	public static int searchMazemoves(String[][] arr) {
+	public static int searchMazeMoves(String[][] arr) {
 		int curRow = arr.length - 1;
 		int curCol = 0;
 		int noOfMoves = 0;
